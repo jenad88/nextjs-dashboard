@@ -1,0 +1,12 @@
+To install pnpm globally:
+npm install -g pnpm
+
+To install from starter example:
+npx create-next-app@latest nextjs-dashboard --example "https://github.com/vercel/next-learn/tree/main/dashboard/starter-example" --use-pnpm
+
+To install packages:
+pnpm i
+
+To start development server:
+pnpm dev
+
